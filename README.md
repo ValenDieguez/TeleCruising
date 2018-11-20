@@ -1,2 +1,2 @@
 # TeleCruising
-Proyecto de Telecruising de DawDual, para solteros exigentes
+Proyecto de Telecruising de DawDual, para chaperos exigentes
